@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package name="helloworldTime" displayName="Hello World Time Package" version="1.0.0">
+<package name="helloworldTime" displayName="Example demonstrating how to use timesteps" version="1.0.0" url="https://apexrms.github.io/helloworldEnhanced/">
 	<transformers>
 
 		<!--Primary Transformer-->
