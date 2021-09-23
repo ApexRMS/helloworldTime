@@ -1,0 +1,3 @@
+# helloworldTime
+
+The helloworldTime package is part of the <a href="https://github.com/ApexRMS/helloworldEnhanced" target="_blank">helloworldEnhanced Package suite</a>, and was designed as a basic example of how to add timesteps and charts to a custom <a href="https://syncrosim.com/" target="_blank">SyncroSim</a> package. For more information, see the <a href="http://docs.syncrosim.com/how_to_guides/package_create_timesteps.html" target="_blank">Enhancing a Package</a> tutorial in the SyncroSim documentation or the <a href="https://apexrms.github.io/helloworldEnhanced/" target="_blank">helloworldEnhanced website</a>. 
