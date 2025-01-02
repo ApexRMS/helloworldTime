@@ -19,7 +19,7 @@
 
 	<!--Transformers-->
 
-	<transformer name="Main" displayName="Hello World Time (R)" programName="Rscript" programArguments="model.R">
+	<transformer name="Main" displayName="Hello World Time (R)" programArguments="model.R">
 		<dataSheet name="RunControl" type="Input"/>
 		<dataSheet name="InputDatasheet" type="Input"/>
 		<dataSheet name="OutputDatasheet" type="Output"/>
